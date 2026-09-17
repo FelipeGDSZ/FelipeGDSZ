@@ -10,7 +10,7 @@
 
 <div align="left">
 <fieldset style="border: 2px solid #F82A94; border-radius: 10px; padding: 20px; max-width: 800px;">
-  <legend align="left"><h3>👩🏻‍💻 Sobre Mim | bout me </h3></legend>
+  <legend align="left"><h3>👩🏻‍💻 Sobre Mim | About me </h3></legend>
 
   <em>
 Sou uma desenvolvedor Back-End e estudante do 5° semestre de <strong>Ciência da Computação</strong> na <strong>Universidade Federal de Ouro Preto</strong>. Tendo contato com a programação desde os 16 anos, minha jornada começou com o curso Técnico em Informática, finalizado em 2022. Com isso, uma base sólida foi consolidada.
