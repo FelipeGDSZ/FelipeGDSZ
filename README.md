@@ -13,7 +13,7 @@
   <legend align="left"><h3> Sobre Mim | About me </h3></legend>
 
   <em>
-Sou um desenvolvedor Back-End e estudante do 5° semestre de <strong>Ciência da Computação</strong> na <strong>Universidade Federal de Ouro Preto</strong>. Tendo contato com a programação desde os 16 anos, minha jornada começou com o curso Técnico em Informática, finalizado em 2022. Com isso, uma base sólida foi consolidada. \\
+Sou um desenvolvedor Back-End e estudante do 5° semestre de <strong>Ciência da Computação</strong> na <strong>Universidade Federal de Ouro Preto</strong>. Tendo contato com a programação desde os 16 anos, minha jornada começou com o curso Técnico em Informática, finalizado em 2022. Com isso, uma base sólida foi consolidada. <br>
 I am a back-end developer and a fifth-semester <strong>Computer Science</strong> student at the <strong>Federal University of Ouro Preto</strong>. Having engaged with programming since the age of 16, my journey began with a technical course in Information Technology, which I completed in 2022. This experience established a solid foundation.
 
 
