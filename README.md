@@ -76,6 +76,6 @@ I am a back-end developer and a fifth-semester <strong>Computer Science</strong>
 <br>
 <br>
 
-- 📫 Contato: **jkrisnarane@gmail.com**
+- 📫 Contato: **felipe.guedes.052@gmail.com**
 
 <p align="center"> 
