@@ -1,4 +1,4 @@
-<h1 align="center"> Felipe Guedes de Souza<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"> </h1>
+<h1 align="center"> Felipe Guedes de Souza </h1>
 <h3 align="center"> Graduando em Ciência da Computação | Computer Science undergraduate </h3>
 
 <p align="center">
