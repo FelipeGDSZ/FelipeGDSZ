@@ -13,7 +13,7 @@
   <legend align="left"><h3> Sobre Mim | About me </h3></legend>
 
   <em>
-Sou um desenvolvedor Back-End e estudante do 5° semestre de <strong>Ciência da Computação</strong> na <strong>Universidade Federal de Ouro Preto</strong>. Tendo contato com a programação desde os 16 anos, minha jornada começou com o curso Técnico em Informática, finalizado em 2022. Com isso, uma base sólida foi consolidada. <br>
+Sou um desenvolvedor Back-End e estudante do 5° semestre de <strong>Ciência da Computação</strong> na <strong>Universidade Federal de Ouro Preto</strong>. Tendo contato com a programação desde os 16 anos, minha jornada começou com o curso Técnico em Informática, finalizado em 2022. Com isso, uma base sólida foi consolidada. <br> <br>
 I am a back-end developer and a fifth-semester <strong>Computer Science</strong> student at the <strong>Federal University of Ouro Preto</strong>. Having engaged with programming since the age of 16, my journey began with a technical course in Information Technology, which I completed in 2022. This experience established a solid foundation.
 
 
@@ -32,35 +32,18 @@ I am a back-end developer and a fifth-semester <strong>Computer Science</strong>
     <br>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
     <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"/>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"/> 
     <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/>
   </kbd>
   <kbd>
-    <kbd>Front-end</kbd>
-    <br>
-    <br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> 
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /> 
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  </kbd>
   <kbd>
-    <kbd>Library/FrameWorks</kbd>
-    <br>
-    <br>
-    <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet"/>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" /> 
-    <img width="30px" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" /> 
-  </kbd>
   <kbd>
     <kbd>Outros</kbd>
     <br>
     <br>
     <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"/>
-    <img width="30px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/> 
+    <img width="30px" src="https://commons.wikimedia.org/wiki/File:Arduino_Logo.svg"/> 
     <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
-    <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" />
     <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" />
-    <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" />
   </kbd>
   <br>
   <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50"/><p align="center">
