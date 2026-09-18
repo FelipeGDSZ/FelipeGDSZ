@@ -41,7 +41,7 @@ I am a back-end developer and a fifth-semester <strong>Computer Science</strong>
     <br>
     <br>
     <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"/>
-    <img width="30px" src="https://commons.wikimedia.org/wiki/File:Arduino_Logo.svg"/> 
+    <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Arduino_Logo.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original"> 
     <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
     <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" />
   </kbd>
