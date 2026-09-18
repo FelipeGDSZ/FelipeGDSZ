@@ -7,11 +7,11 @@
 </p>
 <h1></h1>
 
-Sou um desenvolvedor Back-End e estudante do 5° semestre de <strong>Ciência da Computação</strong> na <strong>Universidade Federal de Ouro Preto</strong>. Tendo contato com a programação desde os 16 anos, minha jornada começou com o curso Técnico em Informática, finalizado em 2022. Com isso, uma base sólida foi consolidada.  <br> <br>
-I am a back-end developer and a fifth-semester <strong>Computer Science</strong> student at the <strong>Federal University of Ouro Preto</strong>. Having engaged with programming since the age of 16, my journey began with a technical course in Information Technology, which I completed in 2022. This experience established a solid foundation.
+🇧🇷 | Sou um desenvolvedor Back-End e estudante do 5° semestre de <strong>Ciência da Computação</strong> na <strong>Universidade Federal de Ouro Preto</strong>. Tendo contato com a programação desde os 16 anos, minha jornada começou com o curso Técnico em Informática, finalizado em 2022. Com isso, uma base sólida foi consolidada.  <br> <br>
+🇬🇧 | I am a back-end developer and a fifth-semester <strong>Computer Science</strong> student at the <strong>Federal University of Ouro Preto</strong>. Having engaged with programming since the age of 16, my journey began with a technical course in Information Technology, which I completed in 2022. This experience established a solid foundation.
 <h1></h1>
 
-### Languages
+### Linguagens | Languages
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c%2B%2B-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
