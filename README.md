@@ -21,7 +21,7 @@ I am a back-end developer and a fifth-semester <strong>Computer Science</strong>
   <br>
 
   <h2 align="center"> Tecnologias e Linguagens </h2>
-  [![My Skills](https://skillicons.dev/icons?i=java,python,javascript,c,php)](https://skillicons.dev)<br><br>
+[![My Skills](https://skillicons.dev/icons?i=java,python,javascript,c,php)](https://skillicons.dev)<br><br>>
           
           
           
