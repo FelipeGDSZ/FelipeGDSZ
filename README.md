@@ -19,3 +19,7 @@ I am a back-end developer and a fifth-semester <strong>Computer Science</strong>
 
   </em> 
   <br>
+
+  <h2 align="center"> Tecnologias e Linguagens </h2>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+          
